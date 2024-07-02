@@ -8,4 +8,5 @@ The main features are:
 
 This project was built for an internship for my Bachelor's Degree in Artificial Intelligence and Data Science.
 
+The corresponding Godot 4 plugin can be found [here](https://github.com/campiao/Godot-ML-Toolkit-Plugin)
 
