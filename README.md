@@ -12,7 +12,7 @@ The corresponding Godot 4 plugin can be found [here](https://github.com/campiao/
 
 A simple showcase using the example environments can be seen [here](https://youtu.be/DEHcFC5Y1jc).
 
-[!(https://img.youtube.com/vi/DEHcFC5Y1jc/maxresdefault.jpg)](https://youtu.be/DEHcFC5Y1jc)
+[![Watch the video](https://img.youtube.com/vi/DEHcFC5Y1jc/maxresdefault.jpg)](https://youtu.be/DEHcFC5Y1jc)
 
 ## Getting Started
 
