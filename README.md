@@ -10,6 +10,9 @@ This project was built for an internship for my Bachelor's Degree in Artificial 
 
 The corresponding Godot 4 plugin can be found [here](https://github.com/campiao/Godot-ML-Toolkit-Plugin).
 
+A simple showcase using the example environments can be seen [here](https://youtu.be/DEHcFC5Y1jc).
+[!](https://youtu.be/DEHcFC5Y1jc)
+
 ## Getting Started
 
 ### Installation
